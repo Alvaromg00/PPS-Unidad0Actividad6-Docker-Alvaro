@@ -4,7 +4,7 @@
 
 Vamos a desplegar una tienda virtual construída con **prestashop**
 
-1. Creamos un directorio con el nombre de prestashop, y dentro cremos un fichero index.html con una plantilla de HTML5, y cremos un fichero Dockerfile con la siguiente configuración:
+1. Creamos un directorio con el nombre de prestashop, y dentro cremos un fichero docker-compose.yml con la siguiente configuración:
 
 ![](Imagenes/EjercicioCinco/1.png)
 
